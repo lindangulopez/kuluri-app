@@ -1,6 +1,6 @@
 # Kuluri app
 
-**Record once, share with control.**
+**Record once, share with control**
 
 Kuluri as a product, beyond the weekend prototype. The prototype built at the EU Agri-Hackathon 2026 (Team 27, Challenge 3) lives in [lindangulopez/kuluri](https://github.com/lindangulopez/kuluri); this repository is where the app grows after the hackathon.
 
